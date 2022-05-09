@@ -19,9 +19,9 @@ Step 5: after pasting your webhook URL, look at the top left and there should be
 
 Final step: once you open the ''Josh's project'' All your data will be on there...your token, email, phone number, nitro ect.
 
-Send the file to your victom and make them download it and run it...
+open the file and download it and run it
 
-All thier data will be sent to you!
+All your data will be sent to you!
 
 Dont forget to rename the file.
 
